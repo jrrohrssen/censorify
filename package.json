@@ -1,0 +1,11 @@
+{
+  "author": "Jay Rohrssen",
+  "name": "censorify",
+  "version": "0.1.1",
+  "descriptoin": "Censors words from text",
+  "main": "censortext",
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
